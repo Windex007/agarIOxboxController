@@ -17,3 +17,21 @@ z:\users\shawn\documents\visual studio 2015\Projects\Agar360\Agar360\obj\Debug\A
 z:\users\shawn\documents\visual studio 2015\Projects\Agar360\Agar360\obj\Debug\Agar360.csproj.GenerateResource.Cache
 z:\users\shawn\documents\visual studio 2015\Projects\Agar360\Agar360\obj\Debug\Agar360.exe
 z:\users\shawn\documents\visual studio 2015\Projects\Agar360\Agar360\obj\Debug\Agar360.pdb
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\Agar360.exe.config
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\Agar360.exe
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\Agar360.pdb
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\AgarIoGamepadLib.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\SlimDX.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\WindowsInput.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\bin\Debug\AgarIoGamepadLib.pdb
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360.csprojResolveAssemblyReference.cache
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\MainWindow.g.cs
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\App.g.cs
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360_MarkupCompile.cache
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360_MarkupCompile.lref
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\MainWindow.baml
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360.g.resources
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360.Properties.Resources.resources
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360.csproj.GenerateResource.Cache
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360.exe
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\Agar360\obj\Debug\Agar360.pdb

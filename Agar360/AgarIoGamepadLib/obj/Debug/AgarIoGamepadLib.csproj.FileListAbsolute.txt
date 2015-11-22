@@ -1,0 +1,15 @@
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\bin\Debug\AgarIoGamepadLib.dll
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\bin\Debug\AgarIoGamepadLib.pdb
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\bin\Debug\SlimDX.dll
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\bin\Debug\WindowsInput.dll
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\bin\Debug\WindowsInput.xml
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\obj\Debug\AgarIoGamepadLib.csprojResolveAssemblyReference.cache
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\obj\Debug\AgarIoGamepadLib.dll
+Z:\Users\Shawn\Documents\Projects\mouseTEst\AgarIoGamepadLib\obj\Debug\AgarIoGamepadLib.pdb
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\bin\Debug\AgarIoGamepadLib.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\bin\Debug\AgarIoGamepadLib.pdb
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\bin\Debug\SlimDX.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\bin\Debug\WindowsInput.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\obj\Debug\AgarIoGamepadLib.csprojResolveAssemblyReference.cache
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\obj\Debug\AgarIoGamepadLib.dll
+Z:\Users\Shawn\Desktop\agarIOxboxController-master\Agar360\AgarIoGamepadLib\obj\Debug\AgarIoGamepadLib.pdb

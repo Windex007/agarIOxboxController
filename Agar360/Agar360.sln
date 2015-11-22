@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agar360", "Agar360\Agar360.csproj", "{E5BA4280-570A-46E1-B97B-A7A153E19C9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgarIoGamepadLib", "..\..\..\Projects\mouseTEst\AgarIoGamepadLib\AgarIoGamepadLib.csproj", "{7E5288FF-6873-4712-AE91-AB444A98945B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgarIoGamepadLib", "AgarIoGamepadLib\AgarIoGamepadLib.csproj", "{7E5288FF-6873-4712-AE91-AB444A98945B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
